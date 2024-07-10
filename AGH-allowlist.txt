@@ -19,6 +19,10 @@
 ! Shopping
 @@||31895.api.swrve.com
 
+! Private Internet Access
+@@||www.privateinternetaccess.com
+! still blocking all other subdomains, like api
+
 ! Apple / iOS
 @@||mesu.apple.com
 @@||appleid.apple.com
