@@ -21,7 +21,11 @@
 
 ! Private Internet Access
 @@||www.privateinternetaccess.com
+@@||assets-cms.privateinternetaccess.com
 ! still blocking all other subdomains, like api
+
+! Stuff Carley needs
+@@||analytics.google.com
 
 ! Apple / iOS
 @@||mesu.apple.com
